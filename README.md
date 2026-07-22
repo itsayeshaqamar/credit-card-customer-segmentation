@@ -78,7 +78,7 @@ credit-card-customer-segmentation/
 │   └── week4_clustering.ipynb
 │
 ├── data/
-│   └── CC GENERAL.csv
+│   └── dataset(w4).csv
 │
 ├── README.md
 │
